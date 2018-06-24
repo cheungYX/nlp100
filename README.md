@@ -2,11 +2,11 @@
 言語処理100本ノックの問題と答えをここに記す
 
 # Chapter 1: beginning
-* 00. [文字列の逆順](./python/reverse.py)
-* 01. [パタトクカシーー](./python/patato.py)
-* 02. [「パトカー」＋「タクシー」＝「パタトクカシーー」](./python/patoka_taxi.py)
-* 03. 円周率
-* 04. 元素記号
+* 00 [文字列の逆順](./python/reverse.py)
+* 01 [パタトクカシーー](./python/patato.py)
+* 02 [「パトカー」＋「タクシー」＝「パタトクカシーー」](./python/patoka_taxi.py)
+* 03 [円周率](./python/pi.py)
+* 04 [元素記号](./python/element.py)
 * 05. n-gram
 * 06. 集合
 * 07. テンプレートによる文生成
