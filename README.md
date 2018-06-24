@@ -7,11 +7,11 @@
 * 02 [「パトカー」＋「タクシー」＝「パタトクカシーー」](./python/patoka_taxi.py)
 * 03 [円周率](./python/pi.py)
 * 04 [元素記号](./python/element.py)
-* 05. n-gram
-* 06. 集合
-* 07. テンプレートによる文生成
-* 08. 暗号文
-* 09. Typoglycemia
+* 05 [n-gram](./python/n-gram.py)
+* 06 [集合](./python/union.py)
+* 07 [テンプレートによる文生成](./python/temp.py)
+* 08 [暗号文](./python/cipher.py)
+* 09 [Typoglycemia](./python/random.py)
 
 # Chapter 2: UNIX command
 * 10. 行数のカウント
