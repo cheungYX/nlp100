@@ -6,7 +6,7 @@ words = target.split(" ")
 
 for idx, word in enumerate(words):
 	if idx in li:
-		res[idx + 1] = word[0]
+		es[idx + 1] = word[0]
 	else:
 		res[idx + 1] = word[0:2]
 
