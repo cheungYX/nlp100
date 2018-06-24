@@ -14,16 +14,16 @@
 * 09 [Typoglycemia](./python/random.py)
 
 # Chapter 2: UNIX command
-* 10. 行数のカウント
-* 11. タブをスペースに置換
-* 12. 1列目をcol1.txtに，2列目をcol2.txtに保存
-* 13. col1.txtとcol2.txtをマージ
-* 14. 先頭からN行を出力
-* 15. 末尾のN行を出力
-* 16. ファイルをN分割する
-* 17. １列目の文字列の異なり
-* 18. 各行を3コラム目の数値の降順にソート
-* 19. 各行の1コラム目の文字列の出現頻度を求め，出現頻度の高い順に並べる
+* 10 [行数のカウント](./shell/wc.sh)
+* 11 [タブをスペースに置換](./shell/sed.sh)
+* 12 [1列目をcol1.txtに，2列目をcol2.txtに保存](./shell/cut.sh)
+* 13 [col1.txtとcol2.txtをマージ](./shell/merge.sh)
+* 14 [先頭からN行を出力](./shell/head.sh)
+* 15 [末尾のN行を出力](./shell/tail.sh)
+* 16 [ファイルをN分割する](./shell/split.sh)
+* 17 [１列目の文字列の異なり](./shell/diff.sh)
+* 18 [各行を3コラム目の数値の降順にソート](./shell/sort.sh)
+* 19 [各行の1コラム目の文字列の出現頻度を求め，出現頻度の高い順に並べる](./shell/count.sh)
 
 # Chapter 3: regular expression
 [hightemp.txt](http://www.cl.ecei.tohoku.ac.jp/nlp100/data/hightemp.txt)は，日本の最高気温の記録を「都道府県」「地点」「℃」「日」のタブ区切り形式で格納したファイルである．以下の処理を行うプログラムを作成し，hightemp.txtを入力ファイルとして実行せよ．さらに，同様の処理をUNIXコマンドでも実行し，プログラムの実行結果を確認せよ．
