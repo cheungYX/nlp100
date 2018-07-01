@@ -1,3 +1,4 @@
+# encoding: UTF-8
 import json
 import gzip
 tmp_dir = "tmp/jawiki-country.json.gz"

@@ -1,3 +1,4 @@
+# encoding: UTF-8
 word1 = "パトカー"
 word2 = "タクシー"
 

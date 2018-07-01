@@ -1,3 +1,4 @@
+# encoding: UTF-8
 target = "I am an NLPer"
 
 def n_gram(target, n = 1):

@@ -1,4 +1,4 @@
-
+# encoding: UTF-8
 def n_gram(target, n = 1):
     res = []
     for i in range(0, len(target) - n + 1):

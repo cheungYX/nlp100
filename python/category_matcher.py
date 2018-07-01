@@ -1,3 +1,4 @@
+# encoding: UTF-8
 import json
 import gzip
 import re
@@ -11,8 +12,8 @@ def find_uk():
                 return json_data['text']
     raise ValueError('no find')
 
-pattern = '^(.*\[\[Category:.* \]\].*)$'
-res = re.findall(pattern, find_uk())
+pattern = re.compile('^(.*\[\[Category:.* \]\].*)$', re.MULTILINE + re.VERBOSE)
+res = pattern.findall(find_uk())
 
 for line in res:
     print(line)

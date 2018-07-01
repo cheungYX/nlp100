@@ -1,3 +1,4 @@
+# encoding: UTF-8
 
 def cipher(target):
     res = ""

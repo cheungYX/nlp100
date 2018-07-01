@@ -1,3 +1,4 @@
+# encoding: UTF-8
 target = "パタトクカシーー"
 # print(target[::2])
 res = ""
