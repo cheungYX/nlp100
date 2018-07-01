@@ -28,8 +28,8 @@
 # Chapter 3: regular expression
 [hightemp.txt](http://www.cl.ecei.tohoku.ac.jp/nlp100/data/hightemp.txt)は，日本の最高気温の記録を「都道府県」「地点」「℃」「日」のタブ区切り形式で格納したファイルである．以下の処理を行うプログラムを作成し，hightemp.txtを入力ファイルとして実行せよ．さらに，同様の処理をUNIXコマンドでも実行し，プログラムの実行結果を確認せよ．
 
-* 20. JSONデータの読み込み
-* 21. カテゴリ名を含む行を抽出
+* 20 [JSONデータの読み込み](./python/json_read.py)
+* 21 [カテゴリ名を含む行を抽出](./python/category_matcher.py)
 * 22. カテゴリ名の抽出
 * 23. セクション構造
 * 24. ファイル参照の抽出
