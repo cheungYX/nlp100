@@ -30,10 +30,10 @@
 
 * 20 [JSONデータの読み込み](./python/json_read.py)
 * 21 [カテゴリ名を含む行を抽出](./python/category_matcher.py)
-* 22. カテゴリ名の抽出
-* 23. セクション構造
-* 24. ファイル参照の抽出
-* 25. テンプレートの抽出
+* 22 [カテゴリ名の抽出](./python/category_name.py)
+* 23 [セクション構造](./python/section.py)
+* 24 [ファイル参照の抽出](./python/refer.py)
+* 25 [テンプレートの抽出](./python/temp_mather.py)
 * 26. 強調マークアップの除去
 * 27. 内部リンクの除去
 * 28. MediaWikiマークアップの除去
