@@ -34,10 +34,10 @@
 * 23 [セクション構造](./python/section.py)
 * 24 [ファイル参照の抽出](./python/refer.py)
 * 25 [テンプレートの抽出](./python/temp_mather.py)
-* 26. 強調マークアップの除去
-* 27. 内部リンクの除去
-* 28. MediaWikiマークアップの除去
-* 29. 国旗画像のURLを取得する
+* 26 [強調マークアップの除去](./python/remove_mark.py)
+* 27 [内部リンクの除去](.python/remove_link.py)
+* 28 [MediaWikiマークアップの除去](.python/remove_medis.py)
+* 29 [国旗画像のURLを取得する](.python/remove_flag_ulr.py)
 
 # Chapter 4: Morphological Analysis
 Wikipediaの記事を以下のフォーマットで書き出したファイルjawiki-country.json.gzがある．
@@ -46,7 +46,7 @@ Wikipediaの記事を以下のフォーマットで書き出したファイルja
 各行には記事名が"title"キーに，記事本文が"text"キーの辞書オブジェクトに格納され，そのオブジェクトがJSON形式で書き出される
 ファイル全体はgzipで圧縮される
 
-* 30. 形態素解析結果の読み込み
+* 30 [形態素解析結果の読み込み](./python/mecab.py)
 * 31. 動詞
 * 32. 動詞の原形
 * 33. サ変名詞
